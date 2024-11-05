@@ -5,3 +5,4 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/QUDRIELZAM/Lab-SE-Group-4.git
 jiro test
+add for CICD
