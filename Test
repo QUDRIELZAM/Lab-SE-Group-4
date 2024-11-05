@@ -6,3 +6,4 @@ git branch -M main
 git remote add origin https://github.com/QUDRIELZAM/Lab-SE-Group-4.git
 jiro test
 add for CICD
+add 2nd CICD
